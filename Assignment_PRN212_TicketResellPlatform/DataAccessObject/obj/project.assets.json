@@ -1934,11 +1934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\DataAccessObject.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\DataAccessObject.csproj",
       "projectName": "DataAccessObject",
-      "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\DataAccessObject.csproj",
+      "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\DataAccessObject.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\obj\\",
+      "outputPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\DataAccessObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\New folder (2)\\NuGetPackages"
@@ -1960,8 +1960,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\BusinessObject\\BusinessObject.csproj"
+            "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

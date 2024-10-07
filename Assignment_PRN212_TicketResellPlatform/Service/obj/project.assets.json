@@ -1970,11 +1970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\Service\\Service.csproj",
+      "projectUniqueName": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\Service\\Service.csproj",
+      "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\Service\\obj\\",
+      "outputPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\New folder (2)\\NuGetPackages"
@@ -1996,8 +1996,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212_TicketResellPlatform\\Repository\\Repository.csproj"
+            "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Repository\\Repository.csproj"
             }
           }
         }
