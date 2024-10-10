@@ -11,12 +11,19 @@
         >
     <Grid>
 
-        <Label FontSize="25" Content="Username" HorizontalAlignment="Left" Margin="350,220,0,0" VerticalAlignment="Top"/>
-        <TextBox FontSize="20" HorizontalAlignment="Center" Height="50" Width="500" Margin="0,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <PasswordBox FontSize="20" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="500" Margin="352,435,0,0"/>
-        <Label FontSize="25" Content="Password" HorizontalAlignment="Left" Margin="352,386,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.365,0.546"/>
+        <Label FontSize="25" Content="Username" HorizontalAlignment="Left" Margin="300,226,0,0" VerticalAlignment="Top"/>
+        <TextBox FontSize="20" HorizontalAlignment="Center" Height="50" Width="600" Margin="0,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <PasswordBox FontSize="20" HorizontalAlignment="Center" Height="50" VerticalAlignment="Top" Width="600" Margin="0,429,0,0"/>
+        <Label FontSize="25" Content="Password" HorizontalAlignment="Left" Margin="300,386,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.365,0.546"/>
         <Label Foreground="#623ED0" FontSize="80" Content="Sign In" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" Background="{x:Null}" FontWeight="Bold"/>
-        <Button Content="Sign In" HorizontalAlignment="Center" Margin="0,535,0,0" VerticalAlignment="Top" Width="158"/>
+        <Button Content="Sign In" HorizontalAlignment="Left" Margin="347,534,0,0" VerticalAlignment="Top" Width="158"/>
+        <Button HorizontalAlignment="Left" Margin="10,645,0,0" VerticalAlignment="Top">
+            <materialDesign:PackIcon
+            Kind="ExitRun"
+            Height="24"
+            Width="24" />
+        </Button>
+        <Button Content="Sign Up" HorizontalAlignment="Left" Margin="689,534,0,0" Width="158" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

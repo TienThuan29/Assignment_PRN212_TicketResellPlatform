@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\App.xaml
-4144059019
+5-928414428
 
-71295537748
+81623194399
 201-328816926
-Admin\AdminDashboardWindow.xaml;MainWindow.xaml;Staff\StaffDashboardWindow.xaml;User\HomeWindow.xaml;
+Admin\AdminDashboardWindow.xaml;MainWindow.xaml;Staff\StaffDashboardWindow.xaml;User\HomeWindow.xaml;User\UserProfileWindow.xaml;
 
 False
 
