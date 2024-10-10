@@ -555,6 +555,8 @@ namespace DataAccessObject
 
                 entity.Property(e => e.IsDone).HasColumnName("is_done");
 
+                entity.Property(e => e.TransCode).HasColumnName("transaction_no").HasMaxLength(255);
+
                 entity.Property(e => e.TransDate)
                     .HasPrecision(6)
                     .HasColumnName("trans_date");

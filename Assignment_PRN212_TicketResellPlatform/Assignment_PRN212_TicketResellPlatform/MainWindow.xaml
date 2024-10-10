@@ -11,11 +11,12 @@
         >
     <Grid>
 
-        <Label Content="Username" HorizontalAlignment="Left" Margin="164,142,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Center" Height="29" Margin="0,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="472"/>
-        <TextBox HorizontalAlignment="Center" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="472" Margin="0,276,0,0"/>
-        <Label Content="Password" HorizontalAlignment="Left" Margin="164,249,0,0" VerticalAlignment="Top"/>
-        <Label FontSize="40" Content="Login" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top"/>
+        <Label FontSize="25" Content="Username" HorizontalAlignment="Left" Margin="350,220,0,0" VerticalAlignment="Top"/>
+        <TextBox FontSize="20" HorizontalAlignment="Center" Height="50" Width="500" Margin="0,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <PasswordBox FontSize="20" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="500" Margin="352,435,0,0"/>
+        <Label FontSize="25" Content="Password" HorizontalAlignment="Left" Margin="352,386,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.365,0.546"/>
+        <Label Foreground="#623ED0" FontSize="80" Content="Sign In" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" Background="{x:Null}" FontWeight="Bold"/>
+        <Button Content="Sign In" HorizontalAlignment="Center" Margin="0,535,0,0" VerticalAlignment="Top" Width="158"/>
 
     </Grid>
 </Window>

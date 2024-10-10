@@ -10,6 +10,9 @@ namespace BusinessObject
         public bool IsDone { get; set; }
         public DateTime TransDate { get; set; }
         public string? TransType { get; set; }
+
+        public string TransCode { get; set; }
+
         public long? UserId { get; set; }
 
         public virtual User? User { get; set; }
