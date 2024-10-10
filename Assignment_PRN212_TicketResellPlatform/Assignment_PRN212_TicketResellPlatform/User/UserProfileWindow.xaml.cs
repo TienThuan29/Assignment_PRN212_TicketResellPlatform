@@ -23,5 +23,6 @@ namespace Assignment_PRN212_TicketResellPlatform.User
         {
             InitializeComponent();
         }
+
     }
 }
