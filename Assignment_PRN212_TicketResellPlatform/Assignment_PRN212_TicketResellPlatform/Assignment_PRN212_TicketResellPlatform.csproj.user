@@ -13,6 +13,9 @@
     <Compile Update="Staff\StaffDashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="User\DetailEventWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="User\HomeWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -28,6 +31,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Staff\StaffDashboardWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="User\DetailEventWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="User\HomeWindow.xaml">
