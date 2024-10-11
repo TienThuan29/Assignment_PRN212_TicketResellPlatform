@@ -45,13 +45,29 @@
                 <Button Content="Vé đã mua" Margin="17,322,1015,306" />
                 <Button Content="Cửa hàng của tôi" Margin="17,376,1015,252" />
                 <Button Content="Quản lý số dư" Margin="17,434,1015,194" />
-                <Button Content="Đổi mật khẩu" Margin="17,492,1015,136" >
+                <Button Content="Đổi mật khẩu" Margin="17,492,1015,136" />
 
 
+                <Label FontSize="50" Content="Thông tin tài khoản" Margin="470,37,212,545" />
+
+                <Label FontSize="25" Content="Họ" HorizontalAlignment="Left" Margin="370,178,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.324,1.648"/>
+                <TextBox FontSize="20" HorizontalAlignment="Left" Height="50" Width="600" Margin="429,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+                <Label FontSize="25" Content="Tên" HorizontalAlignment="Left" Margin="366,281,0,0" VerticalAlignment="Top"/>
+                <TextBox FontSize="20" HorizontalAlignment="Left" Height="50" Width="600" Margin="429,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+                <Label FontSize="25" Content="Email" HorizontalAlignment="Left" Margin="345,388,0,0" VerticalAlignment="Top"/>
+                <TextBox FontSize="20" HorizontalAlignment="Left" Height="50" Width="600" Margin="429,376,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+                <Label FontSize="25" Content="SĐT" HorizontalAlignment="Left" Margin="356,495,0,0" VerticalAlignment="Top"/>
+                <TextBox FontSize="20" HorizontalAlignment="Left" Height="50" Width="600" Margin="429,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <Button Content="Lưu" Margin="665,560,407,68" />
+                
+                
                 <Button HorizontalAlignment="Left" Margin="17,581,0,0" VerticalAlignment="Top" Width="54">
                     <materialDesign:PackIcon Kind="ExitRun" Height="24" Width="24" />
                 </Button>
-                
+
             </Grid>
         </Border>
     </Grid>
