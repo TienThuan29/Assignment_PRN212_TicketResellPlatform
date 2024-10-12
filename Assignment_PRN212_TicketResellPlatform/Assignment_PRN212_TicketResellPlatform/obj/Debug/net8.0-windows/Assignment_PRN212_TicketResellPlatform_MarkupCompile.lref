@@ -1,4 +1,5 @@
 ﻿
+<<<<<<< HEAD
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\App.xaml;;
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\Admin\AdminDashboardWindow.xaml;;
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\MainWindow.xaml;;
@@ -10,4 +11,13 @@ FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketRese
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\BalanceManagementWindow.xaml;;
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\MyShopWindow.xaml;;
 FD:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\AddingTicketWindow.xaml;;
+=======
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\App.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\Admin\AdminDashboardWindow.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\MainWindow.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\Staff\StaffDashboardWindow.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\DetailEventWindow.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\HomeWindow.xaml;;
+FD:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\User\UserProfileWindow.xaml;;
+>>>>>>> 6b67730d5fe9c5de596d6bededd0263e70eed001
 

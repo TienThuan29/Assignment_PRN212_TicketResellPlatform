@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\",
   "Documents": [
     {
@@ -15,18 +16,27 @@
       "RelativeMoniker": "D:0:0:{F6F1156E-67B8-4737-A7D7-3D99D9F0C8D6}|Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj|solutionrelative:assignment_prn212_ticketresellplatform\\user\\balancemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
+=======
+  "WorkspaceRootPath": "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\",
+  "Documents": [],
+>>>>>>> 6b67730d5fe9c5de596d6bededd0263e70eed001
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedHeight": 441,
           "SelectedChildIndex": 4,
+=======
+          "DockedHeight": 274,
+          "SelectedChildIndex": -1,
+>>>>>>> 6b67730d5fe9c5de596d6bededd0263e70eed001
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -34,11 +44,20 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -73,6 +92,8 @@
               "RelativeToolTip": "Assignment_PRN212_TicketResellPlatform\\User\\BalanceManagementWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-12T11:28:54.764Z"
+=======
+>>>>>>> 6b67730d5fe9c5de596d6bededd0263e70eed001
             }
           ]
         },
