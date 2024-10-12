@@ -24,5 +24,25 @@ namespace Assignment_PRN212_TicketResellPlatform.User
             InitializeComponent();
         }
 
+        private void ShowChangePasswordWindow(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            ChangePasswordWindow changePasswordWindow = new ChangePasswordWindow();
+            changePasswordWindow.Show();
+        }
+
+        private void ShowBalanceManagementWindow(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            BalanceManagementWindow balanceManagementWindow = new BalanceManagementWindow();
+            balanceManagementWindow.Show();
+        }
+
+        private void ShowMyShopWindow(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            MyShopWindow myShopWindow = new MyShopWindow(); 
+            myShopWindow.Show();    
+        }
     }
 }
