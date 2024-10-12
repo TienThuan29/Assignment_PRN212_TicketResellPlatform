@@ -98,6 +98,16 @@ E:\FPT\PRN212\AssignmentPRN212\Assignment_PRN212_TicketResellPlatform\Assignment
 E:\FPT\PRN212\AssignmentPRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\DetailEventWindow.baml
 D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\DetailEventWindow.g.cs
 D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\DetailEventWindow.baml
+<<<<<<< HEAD
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\ChangePasswordWindow.g.cs
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\ChangePasswordWindow.baml
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\BalanceManagementWindow.g.cs
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\BalanceManagementWindow.baml
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\MyShopWindow.g.cs
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\MyShopWindow.baml
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\AddingTicketWindow.g.cs
+D:\Visual Studio 2022\Csharp\WPF\Assignment_PRN212\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\User\AddingTicketWindow.baml
+=======
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\bin\Debug\net8.0-windows\Assignment_PRN212_TicketResellPlatform.exe
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\bin\Debug\net8.0-windows\Assignment_PRN212_TicketResellPlatform.deps.json
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\bin\Debug\net8.0-windows\Assignment_PRN212_TicketResellPlatform.runtimeconfig.json
@@ -135,3 +145,4 @@ D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\Assignment_PRN212_TicketResellPlatform.pdb
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\Assignment_PRN212_TicketResellPlatform.genruntimeconfig.cache
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\obj\Debug\net8.0-windows\ref\Assignment_PRN212_TicketResellPlatform.dll
+>>>>>>> 6b67730d5fe9c5de596d6bededd0263e70eed001

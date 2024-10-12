@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\FPT\PRN212\TicketResell_WPF\Assignment_PRN212_TicketResellPlatform\Assignment_PRN212_TicketResellPlatform\App.xaml
-6-1546064793
+10-1283013114
 
-11-1722020387
+15745306422
 201-1406185530
-Admin\AdminDashboardWindow.xaml;MainWindow.xaml;Staff\StaffDashboardWindow.xaml;User\DetailEventWindow.xaml;User\HomeWindow.xaml;User\UserProfileWindow.xaml;
+Admin\AdminDashboardWindow.xaml;MainWindow.xaml;Staff\StaffDashboardWindow.xaml;User\AddingTicketWindow.xaml;User\BalanceManagementWindow.xaml;User\ChangePasswordWindow.xaml;User\DetailEventWindow.xaml;User\HomeWindow.xaml;User\MyShopWindow.xaml;User\UserProfileWindow.xaml;
 
-False
+True
 
