@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj": {}
+    "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj": {
+    "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj",
         "projectName": "Assignment_PRN212_TicketResellPlatform",
-        "projectPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2022\\Csharp\\WPF\\Assignment_PRN212\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\obj\\",
+        "projectPath": "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform.csproj",
+        "packagesPath": "C:\\Users\\nntnn\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\PRN212\\TicketResell_WPF\\Assignment_PRN212_TicketResellPlatform\\Assignment_PRN212_TicketResellPlatform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\New folder (2)\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nntnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -74,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
