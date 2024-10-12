@@ -12,15 +12,12 @@
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
-                <!-- Chiều cao header tự động căn chỉnh theo nội dung -->
                 <RowDefinition Height="*"/>
-                <!-- Chiều cao động cho nội dung chính -->
             </Grid.RowDefinitions>
+            
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="250"/>
-                <!-- Cột bên trái để đặt các nút -->
                 <ColumnDefinition Width="*"/>
-                <!-- Cột chính chứa nội dung dashboard -->
             </Grid.ColumnDefinitions>
 
             <Border Grid.Row="0" Grid.ColumnSpan="2" Background="#623ED0"  CornerRadius="0 0 10 10">
@@ -38,8 +35,9 @@
             </Border>
 
             <Grid Grid.Row="1" Grid.Column="0" Background="White" Margin="10" 
-            HorizontalAlignment="Center" VerticalAlignment="Center">
+                HorizontalAlignment="Center" VerticalAlignment="Center">
                 <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
@@ -52,11 +50,60 @@
                 <Button Content="Quản lý hashtags" Grid.Row="2" Height="50" Margin="0,20,0,20" Background="#623ED0" Foreground="White" FontSize="16"/>
                 <Button Content="Quản lý yêu cầu bán vé" Grid.Row="3" Height="50" Margin="0,20,0,20" Background="#623ED0" Foreground="White" FontSize="16"/>
                 <Button Content="Xem Thông Tin Người Dùng" Grid.Row="4" Height="50" Margin="0,20,0,20" Background="#623ED0" Foreground="White" FontSize="16"/>
+                <Button Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="54" Height="54" Margin="10,0,0,0">
+                    <materialDesign:PackIcon Kind="ExitRun" Height="24" Width="24" />
+                </Button>
             </Grid>
 
-            <Grid Grid.Row="1" Grid.Column="1">
-                <!-- Nội dung dashboard sẽ được đặt ở đây -->
-            </Grid>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="10">
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10">
+                    <TextBox Width="250" Height="30" VerticalAlignment="Center" 
+                         Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" 
+                         />
+                    <Button Content="Tìm kiếm" Width="120" Height="30" Command="{Binding SearchCommand}" />
+                </StackPanel>
+                
+                <Grid Grid.Row="1" Grid.Column="1">
+                    <DataGrid AutoGenerateColumns="False" 
+                    ItemsSource="{Binding EventList}" 
+                    CanUserAddRows="False"
+                    CanUserDeleteRows="False"
+                    HeadersVisibility="Column" 
+                    RowHeight="50" 
+                    ColumnWidth="*" 
+                    Margin="20,10,10,10" 
+                    IsReadOnly="True"
+                    Background="White">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="#" Binding="{Binding EventNumber}" Width="50"/>
+                            <DataGridTextColumn Header="Tên sự kiện" Binding="{Binding EventName}" Width="300"/>
+                            <DataGridTextColumn Header="Ngày bắt đầu" Binding="{Binding StartDate}" Width="150"/>
+                            <DataGridTextColumn Header="Ngày kết thúc" Binding="{Binding EndDate}" Width="150"/>
+                            <DataGridTemplateColumn Header="Trạng thái" Width="100">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button Content="{Binding Status}" Background="LightGreen" Foreground="Black" Padding="5,0" BorderThickness="0" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                            <DataGridTemplateColumn Header="Hành động" Width="200">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <Button Content="CẬP NHẬT" Background="LightBlue" Padding="5,0" Margin="5,0" />
+                                            <Button Content="XÓA" Background="LightCoral" Padding="5,0" Margin="5,0" />
+                                            <Button Content="CHI TIẾT" Background="White" Padding="5,0" Margin="5,0" />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </StackPanel>
         </Grid>
     </Border>
 </Window>
